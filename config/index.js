@@ -3,5 +3,6 @@
 
 module.exports = {
 
-    DB_CONFIG : require('./dbconfig.js')
+    DB_CONFIG : require('./dbconfig.js'),
+    SERVER_CONFIG : require('./serverconfig.js')
 };
